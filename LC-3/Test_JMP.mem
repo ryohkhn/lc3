@@ -1,0 +1,4 @@
+v2.0 raw
+e000 c000 
+#         LEA R0, loop
+# loop:   JMP R0

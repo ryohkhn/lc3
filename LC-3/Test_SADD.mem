@@ -1,0 +1,6 @@
+v2.0 raw
+2002 d000 0000 8aaa 
+
+# R0 <- x8AAA
+# SADD R0, R0, R0
+# x8AAA + x8AAA > x7FFF => R0 = x7FFF
