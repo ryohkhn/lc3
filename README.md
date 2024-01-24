@@ -9,4 +9,4 @@ Diderot](https://u-paris.fr/eidd/). Ces documents concernent l'année
 
 # Projet
 
-Le projet sera disponible dans le répertoire [LC-3](LC-3/).
+Le projet sera disponible dans le répertoire [lc3](lc3/).
